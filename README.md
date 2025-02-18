@@ -1,4 +1,4 @@
-# Large Self-Supervised Vision Foundation Model
+# Self-Supervised Pre-training of Swin UNETR for Enhanced Classification of Plain Head MRI
 ## Model Overview
 This repository provides self-supervised pre-trained Shift Window UNET TRansformer (Swin UNETR), which was trained on 75,861 plain head MRI scans (4D volumes including T1w, T2w and FLAIR), for enhanced classification and segmentation. The training process is illustrated below:
 ![workflow](workflow.jpg)
