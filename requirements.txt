@@ -1,0 +1,13 @@
+matplotlib==3.9.2
+monai==1.4.0
+nibabel==5.3.2
+numpy==1.26.4
+pandas==2.2.3
+pytorch-ignite==0.4.11
+pytorch-msssim==1.0.0
+scipy==1.14.1
+tensorboard==2.18.0
+torch==2.5.1
+torchmetrics==1.6.1
+torchvision==0.20.1
+tqdm==4.67.0
